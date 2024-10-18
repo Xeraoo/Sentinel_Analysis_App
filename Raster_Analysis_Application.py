@@ -1,5 +1,5 @@
-# Raster Analysis Application
-# Author: Tymoteusz Maj
+# Raster Analysis Application - Python
+# Author: Tymoteusz Maj 
 # GitHub: https://github.com/Xeraoo
 
 from PyQt5.QtWidgets import (
