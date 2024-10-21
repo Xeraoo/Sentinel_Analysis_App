@@ -39,6 +39,7 @@ def calculateNDVI(self):
 
     ndvi = (nir - red) / (nir + red + 1e-8)  # Adding 1e-8 to avoid division by zero
     ...
+```
 
 
 ## Contributing
